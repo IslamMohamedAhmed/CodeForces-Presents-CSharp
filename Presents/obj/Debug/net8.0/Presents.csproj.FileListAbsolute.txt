@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\Presents\Presents\bin\Debug\net8.0\Presents.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\Presents\Presents\bin\Debug\net8.0\Presents.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\Presents\Presents\bin\Debug\net8.0\Presents.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\Presents\Presents\bin\Debug\net8.0\Presents.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\Presents\Presents\bin\Debug\net8.0\Presents.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\Presents\Presents\obj\Debug\net8.0\Presents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\Presents\Presents\obj\Debug\net8.0\Presents.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\Presents\Presents\obj\Debug\net8.0\Presents.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\Presents\Presents\obj\Debug\net8.0\Presents.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\Presents\Presents\obj\Debug\net8.0\Presents.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\Presents\Presents\obj\Debug\net8.0\refint\Presents.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\Presents\Presents\obj\Debug\net8.0\Presents.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\Presents\Presents\obj\Debug\net8.0\Presents.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\Presents\Presents\obj\Debug\net8.0\ref\Presents.dll
